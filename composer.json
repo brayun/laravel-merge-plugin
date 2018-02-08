@@ -1,5 +1,5 @@
 {
-  "name": "bnbwebexpertise/laravel-merge-plugin",
+  "name": "brayun/laravel-merge-plugin",
   "description": "Laravel 5.5 package to enable auto-discovery for packages loaded via wikimedia/composer-merge-plugin",
   "type": "package",
   "license": "MIT",
@@ -10,8 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "laravel/framework": "5.5.x"
+    "php": ">=7.0"
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
